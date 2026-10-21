@@ -1,5 +1,7 @@
 # 🍽️ Foodie – Restaurant Portfolio Template
 
+🌐 **Live demo:** [mohamed-elhosinii.github.io/Mealify-Restaurant-Portfolio-Template](https://mohamed-elhosinii.github.io/Mealify-Restaurant-Portfolio-Template/)
+
 A responsive and modern **restaurant landing page** built with **HTML, CSS, and JavaScript**.  
 Includes a dark mode toggle, smooth scrolling navigation, and contact form.
 
